@@ -8,8 +8,9 @@ Evaluate the effectiveness of clinical interventions in restoring or enhancing j
 Through our research, we aim to contribute to treatments that promote longevity and quality of life by maintaining optimal musculoskeletal health.
 
 ## Explore Our Work
-We are committed to open science and share our research tools and findings with the community. Our Reposotproes include:
+We are committed to open science and share our research tools and findings with the community. Check out some of our popular repositories:
 
  - [JOVE_BVR_FootModelAndMarkerBased](https://github.com/skelobslab/JOVE_BVR_FootModelAndMarkerBased): Accompanying code for our publication, facilitating model and marker-based tracking with visual outputs.
- - [RemoveBeads](https://github.com/skelobslab/RemoveBeads): A Python tool designed to enhance imaging data by removing artifacts.
  - [createInventorSuite](https://github.com/skelobslab/createInventorSuite): MATLAB functions developed to streamline the creation of .iv files for modeling purposes.
+
+Explore all our repositories [here](https://github.com/skelobslab?tab=repositories) for more tools and resources.
